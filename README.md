@@ -1,17 +1,17 @@
 # Hello, friend! <img src="./assets/wave.gif" width="35px" height="35px" alt="wave" />
 
 Hi, I am **tnsqkyy**, a university student from **Singapore** passionate about **Computer Networks** and aspiring to become a **Red Team pentester**.  
-I love learning about networks, Linux, cybersecurity, and sharing knowledge through guides and open-source projects.
+I love learning about networks, Linux, cybersecurity, and sharing knowledge through guides and open-source repos.
 
 ---
 
-📘 Latest Project
+📘 Latest Repo
 
-<!-- PROJECT-LIST:START -->
+<!-- REPO-LIST:START -->
 - [HackBook Labs](https://github.com/tnsqkyy/hackbook) - Hands-on cybersecurity exercises and tutorials.
-<!-- PROJECT-LIST:END -->
+<!-- REPO-LIST:END -->
 
-▶ [...more projects](https://github.com/tnsqkyy?tab=repositories)
+▶ [...more repos](https://github.com/tnsqkyy?tab=repositories)
 
 ---
 
