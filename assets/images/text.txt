@@ -1,1 +1,0 @@
-# <img src="./assets/images/wireshark-logo.png" width="35px" height="35px" alt="Wireshark Logo" /> Wireshark
