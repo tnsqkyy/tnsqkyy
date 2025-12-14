@@ -8,7 +8,7 @@ I love learning about networks, Linux, cybersecurity, and sharing knowledge thro
 📘 Latest Repo
 
 <!-- REPO-LIST:START -->
-- [hackBook](https://github.com/tnsqkyy/hackbook) - Hands-on cybersecurity exercises and tutorials.
+- [hackBook](https://github.com/tnsqkyy/hackBook) - Hands-on cybersecurity exercises and tutorials.
 <!-- REPO-LIST:END -->
 
 ▶ [...more repos](https://github.com/tnsqkyy?tab=repositories)
