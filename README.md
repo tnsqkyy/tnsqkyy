@@ -9,6 +9,7 @@ I love learning about networks, Linux, cybersecurity, and sharing knowledge thro
 
 <!-- REPO-LIST:START -->
 - [hackBook](https://github.com/tnsqkyy/hackBook) - Hands-on cybersecurity exercises and tutorials.
+- [passGen](https://github.com/tnsqkyy/passGen) - Simple, secure, and universal password generator.
 <!-- REPO-LIST:END -->
 
 ▶ [...more repos](https://github.com/tnsqkyy?tab=repositories)
