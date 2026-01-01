@@ -8,7 +8,7 @@ I love learning about networks, Linux, cybersecurity, and sharing knowledge thro
 📘 Latest Repo
 
 <!-- REPO-LIST:START -->
-- [hackBook](https://github.com/tnsqkyy/hackBook) - Hands-on cybersecurity exercises and tutorials.
+- [hackbook](https://github.com/tnsqkyy/hackbook) - Hands-on cybersecurity exercises and tutorials.
 - [portify](https://github.com/tnsqkyy/portify) - High-speed port scanner using Rust and Raw Sockets.
 - [pwgen](https://github.com/tnsqkyy/pwgen) - Simple, secure, and universal password generator.
 <!-- REPO-LIST:END -->
