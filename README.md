@@ -1,6 +1,6 @@
 # Hola, amigo! <img src="./assets/images/wave.gif" width="35px" height="35px" alt="wave" />
 
-Hi, I am **tnsqkyy**, a university student passionate about **Computer Networks** and aspiring to become a **Red Team pentester**.  
+Hi, I am a university student passionate about **Computer Networks** and aspiring to become a **Red Team pentester**.  
 I love learning about networks, Linux, cybersecurity, and sharing knowledge through guides and open-source repos.
 
 ---
